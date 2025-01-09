@@ -132,4 +132,5 @@ export default defineConfig({
 			{ icon: "twitter", link: "https://x.com/octaneswap" },
 		],
 	},
+
 });
