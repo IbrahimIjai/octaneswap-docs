@@ -4,6 +4,10 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
 	title: "octaneswap",
 	description: "Octaneswap docs",
+	head: [
+		["link", { rel: "icon", href: "https://www.octaneswap.xyz/favicon.ico" }],
+	],
+	cleanUrls: true,
 	themeConfig: {
 		search: {
 			provider: "algolia",
@@ -132,5 +136,4 @@ export default defineConfig({
 			{ icon: "twitter", link: "https://x.com/octaneswap" },
 		],
 	},
-
 });
