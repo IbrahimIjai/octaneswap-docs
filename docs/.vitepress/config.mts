@@ -5,10 +5,26 @@ export default defineConfig({
 	title: "octaneswap",
 	description: "Octaneswap docs",
 	head: [
-		["link", { rel: "icon", href: "https://www.octaneswap.xyz/favicon.ico" }],
+		["link", { rel: "icon", href: "/favicon.ico" }],
+		[
+			"script",
+			{
+				async: "",
+				src: "https://www.googletagmanager.com/gtag/js?id=G-KJVLVXECK1",
+			},
+		],
+		[
+			"script",
+			{},
+			`window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-KJVLVXECK1');`,
+		],
 	],
 	cleanUrls: true,
 	themeConfig: {
+		logo: { src: "/logo.png", width: 24, height: 24 },
 		search: {
 			provider: "algolia",
 			options: {
