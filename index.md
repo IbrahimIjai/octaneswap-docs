@@ -8,11 +8,11 @@ hero:
   tagline: Trade, earn, win
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Learn more
+      link: /docs/overview
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Contracts
+      link: /contracts/core/factory
 
 features:
   - title: Trade
@@ -23,6 +23,6 @@ features:
     details: Play your favorite onchain game and earn rewards
 ---
 
-<script>
-  window.location.href = '/docs'
-</script>
+<!-- <script>
+  // window.location.href = '/docs/overview'
+</script> -->

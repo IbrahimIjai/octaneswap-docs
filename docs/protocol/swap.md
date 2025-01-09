@@ -28,7 +28,7 @@ Ensure you have:
    - The token you want to **swap from** (_Input token_).
    - The token you want to **swap to** (_Output token_).
 
-![Token selection interface](./images/swap-token-selection.png)
+<!-- ![Token selection interface](./images/swap-token-selection.png) -->
 
 ---
 
@@ -41,7 +41,7 @@ Ensure you have:
    - **Minimum Output Amount**: The least amount you’ll receive after accounting for slippage.
    - **Network Fee**: The gas fee for the transaction.
 
-![Swap interface with details](./images/swap-amount-details.png)
+<!-- ![Swap interface with details](./images/swap-amount-details.png) -->
 
 ---
 
@@ -54,7 +54,7 @@ Ensure you have:
 2. Click the **Swap** button.
 3. Confirm the transaction in your wallet.
 
-![Transaction confirmation modal](./images/swap-confirmation.png)
+<!-- ![Transaction confirmation modal](./images/swap-confirmation.png) -->
 
 ---
 
@@ -67,7 +67,7 @@ Ensure you have:
    - **Default**: 0.5%
    - **Recommended**: 0.1% - 1% based on market volatility.
 
-![Slippage settings modal](./images/slippage-settings.png)
+<!-- ![Slippage settings modal](./images/slippage-settings.png) -->
 
 ---
 
@@ -75,7 +75,7 @@ Ensure you have:
 
 Our system automatically finds the best route for your trade, including intermediary tokens when necessary.
 
-![Route visualization](./images/route-optimization.png)
+<!-- ![Route visualization](./images/route-optimization.png) -->
 
 ---
 
@@ -87,7 +87,7 @@ Track your swap in real time:
 - **Confirmed**: Your swap has been executed successfully.
 - View details in the **Explorer** for full transparency.
 
-![Transaction status indicators](./images/transaction-status.png)
+<!-- ![Transaction status indicators](./images/transaction-status.png) -->
 
 ---
 

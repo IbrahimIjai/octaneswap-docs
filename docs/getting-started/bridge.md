@@ -27,13 +27,13 @@ Follow these steps to bridge your assets:
    - Connect your wallet on the **source network** (e.g., Ethereum).  
    - Connect your wallet on the **Fuel Network**.  
 
-   ![Bridge Interface with Connected Wallets](./screenshots/bridge-connected-wallets.png)
+   <!-- ![Bridge Interface with Connected Wallets](./screenshots/bridge-connected-wallets.png) -->
 
 3. **Select Asset and Amount**  
    - Choose the token you want to bridge.  
    - Enter the amount.  
 
-   ![Asset Selection and Amount Input](./screenshots/bridge-asset-selection.png)
+   <!-- ![Asset Selection and Amount Input](./screenshots/bridge-asset-selection.png) -->
 
 4. **Review Details**  
    - Check the **estimated gas fees** and **bridge time**.  
@@ -68,7 +68,7 @@ Once you've initiated a bridge transaction, you can track its progress:
    - Use the **"Track Transaction"** feature on the bridge interface.  
    - View pending and completed transactions in your **transaction history**.  
 
-   ![Transaction Tracking Interface](./screenshots/transaction-tracking.png)
+   <!-- ![Transaction Tracking Interface](./screenshots/transaction-tracking.png) -->
 
 ---
 

@@ -10,7 +10,7 @@ To start using **OctaneSwap** on the **Fuel Network**, you'll need to set up a c
 2. Click the **"Add to Browser"** button to install the extension.
 3. Follow the on-screen prompts to complete the installation for your browser.
 
-![Fuel Wallet Installation Page](./screenshots/fuel-wallet-installation.png)
+<!-- ![Fuel Wallet Installation Page](./screenshots/fuel-wallet-installation.png) -->
 
 ---
 
@@ -27,7 +27,7 @@ To start using **OctaneSwap** on the **Fuel Network**, you'll need to set up a c
 4. Verify your recovery phrase by entering it as prompted.
 5. Set a **strong password** for your wallet.
 
-![Wallet Creation Process](./screenshots/fuel-wallet-creation.png)
+<!-- ![Wallet Creation Process](./screenshots/fuel-wallet-creation.png) -->
 
 ---
 
@@ -38,7 +38,7 @@ To start using **OctaneSwap** on the **Fuel Network**, you'll need to set up a c
 3. Select **Fuel Wallet** from the list of supported wallets.
 4. Approve the connection request in your wallet to link it to OctaneSwap.
 
-![Connect Wallet Modal](./screenshots/connect-wallet-modal.png)
+<!-- ![Connect Wallet Modal](./screenshots/connect-wallet-modal.png) -->
 
 ---
 
@@ -52,7 +52,7 @@ The **Fuel Wallet** makes it easy to manage multiple accounts:
    - You can customize account names for better organization.
 3. Switch between accounts easily by selecting the desired account from the list.
 
-![Account Management in Fuel Wallet](./screenshots/manage-accounts.png)
+<!-- ![Account Management in Fuel Wallet](./screenshots/manage-accounts.png) -->
 
 ---
 
@@ -67,4 +67,4 @@ Start your journey with OctaneSwap by connecting your wallet today!
 ---
 
 > 💡 **Need Help?**  
-> Check out our [Support Guide](./support/getting-help.md) or join our [Community Chat](https://t.me/octaneswap) for assistance.
+> Check out our [Support Guide](https://t.me/octaneswap) or join our [Community Chat](https://t.me/octaneswap) for assistance.

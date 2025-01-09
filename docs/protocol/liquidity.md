@@ -15,7 +15,7 @@ Make sure you have:
 
 - **Both tokens** of the pair you want to provide liquidity for.
 - **Extra tokens** to cover gas fees.
-- A basic understanding of [CLMM mechanics](./clmm-guide).
+- A basic understanding of CLMM mechanics.
 
 ---
 
@@ -32,7 +32,7 @@ Make sure you have:
    - **0.3%**: Standard pairs
    - **1%**: Exotic pairs
 
-![Pool and fee tier selection](./images/pool-selection.png)
+<!-- ![Pool and fee tier selection](./images/pool-selection.png) -->
 
 ---
 
@@ -49,7 +49,7 @@ Make sure you have:
 
 > 💡 **Tip:** Narrower ranges can increase fee earnings but may require active management.
 
-![Price range selection interface](./images/price-range-selection.png)
+<!-- ![Price range selection interface](./images/price-range-selection.png) -->
 
 ---
 
@@ -62,7 +62,7 @@ Make sure you have:
    - **Fee tier**
    - **Initial deposit amounts**
 
-![Deposit interface](./images/deposit-amount.png)
+<!-- ![Deposit interface](./images/deposit-amount.png) -->
 
 ---
 
@@ -73,7 +73,7 @@ Make sure you have:
 3. If this is your first time, approve token spending in your wallet.
 4. Confirm the transaction.
 
-![Position confirmation screen](./images/position-confirmation.png)
+<!-- ![Position confirmation screen](./images/position-confirmation.png) -->
 
 ---
 
@@ -89,7 +89,7 @@ Access your positions from the **"Pools"** page to see:
 - **Current value**
 - **ROI metrics**
 
-![Position management interface](./images/position-management.png)
+<!-- ![Position management interface](./images/position-management.png) -->
 
 ---
 
@@ -101,7 +101,7 @@ Access your positions from the **"Pools"** page to see:
    - Collect **all accumulated fees**.
    - Specify amounts for each token.
 
-![Fee collection interface](./images/collect-fees.png)
+<!-- ![Fee collection interface](./images/collect-fees.png) -->
 
 ---
 
@@ -113,7 +113,7 @@ You can manage your positions dynamically:
 - **Remove Liquidity**: Partially or fully remove liquidity while maintaining the range.
 - **Create New Position**: Use a different price range or token pair.
 
-![Position adjustment options](./images/adjust-position.png)
+<!-- ![Position adjustment options](./images/adjust-position.png) -->
 
 ---
 
@@ -132,9 +132,9 @@ Your returns come from:
 
 ### Impermanent Loss
 
-- The difference in returns compared to holding tokens. Learn more in the [Risk section](./risk-guide).
+- The difference in returns compared to holding tokens. Learn more in the Risk section.
 
-![Returns breakdown](./images/returns-breakdown.png)
+<!-- ![Returns breakdown](./images/returns-breakdown.png) -->
 
 ---
 
@@ -158,4 +158,4 @@ Your returns come from:
 - **Reinvest fees** to grow your position.
 - Stay informed about market trends.
 
-![Position monitoring dashboard](./images/position-monitoring.png)
+<!-- ![Position monitoring dashboard](./images/position-monitoring.png) -->

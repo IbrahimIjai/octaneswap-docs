@@ -20,7 +20,7 @@ Swap fees on pOct are:
 - **Only earned by in-range liquidity positions**: Liquidity providers earn fees only when their liquidity is within the current price range.
 - **Collected separately from the pool**: Fees are not reinvested automatically but must be manually collected.
 
-![Fee collection interface](./images/fee-collection.png)
+<!-- ![Fee collection interface](./images/fee-collection.png) -->
 
 ---
 
@@ -55,7 +55,7 @@ pOct offers multiple fee tiers for each token pair to better serve different ass
 | **0.3%**  | Standard pairs   | Moderate volatility, regular volume, standard risk     |
 | **1%**    | Exotic pairs     | High volatility, lower volume, higher risk             |
 
-![Fee tier selection during pool creation](./images/fee-tier-selection.png)
+<!-- ![Fee tier selection during pool creation](./images/fee-tier-selection.png) -->
 
 ---
 
@@ -110,7 +110,7 @@ pOct offers multiple fee tiers for each token pair to better serve different ass
 - **Regular fee collection**: Don’t leave fees uncollected for too long.
 - **Adjust ranges based on earnings**: Optimize your position size and range for better returns.
 
-![Fee earnings dashboard](./images/fee-earnings-dashboard.png)
+<!-- ![Fee earnings dashboard](./images/fee-earnings-dashboard.png) -->
 
 ---
 
@@ -131,6 +131,6 @@ pOct offers multiple fee tiers for each token pair to better serve different ass
 
 ## 📚 Additional Resources
 
-- For more information on **fee structure mechanics** and the **risk of impermanent loss**, check out our [Risk Guide](./risk-guide).
+- For more information on **fee structure mechanics** and the **risk of impermanent loss**, check out our Risk Guide.
 
 ---

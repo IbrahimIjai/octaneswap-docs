@@ -119,7 +119,7 @@ Octaneswap uses several mechanisms to incentivize liquidity provision in farms, 
 
 ## 💬 Additional Resources
 
-- For more detailed information on farming pools, check out our [Farm Dashboard](./farm-dashboard).
-- For advanced staking strategies, refer to our [Staking Guide](./staking-guide).
+- For more detailed information on farming pools, check out our Farm Dashboard.
+- For advanced staking strategies, refer to our Staking Guide
 
 ---

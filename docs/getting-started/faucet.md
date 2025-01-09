@@ -22,7 +22,7 @@ Follow these steps to request test tokens:
    - Complete any verification steps if required.
    - Click **"Request Tokens"** to receive them.
 
-   ![Fuel Faucet Interface](./screenshots/testnet-faucet.png)
+   <!-- ![Fuel Faucet Interface](./screenshots/testnet-faucet.png) -->
 
 ---
 
@@ -75,7 +75,7 @@ To test liquidity provision and other features:
 - Clear your browser cache and try again.
 - Check the [Fuel Network Status Page](https://status.fuel.network) for any ongoing issues.
 
-  ![Troubleshooting Section](./screenshots/faucet-troubleshooting.png)
+  <!-- ![Troubleshooting Section](./screenshots/faucet-troubleshooting.png) -->
 
 ---
 
@@ -91,4 +91,4 @@ Once you have your test tokens, you can:
 ---
 
 > 🔗 **Explore More:**  
-> Dive into our [Protocol Mechanisms](./protocol-mechanism.md) to understand how OctaneSwap works.
+> Dive into our [Protocol Mechanisms](../../docs/mechanism.md) to understand how OctaneSwap works.
