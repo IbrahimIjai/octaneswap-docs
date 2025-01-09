@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "octaneswap"
   text: "Octaneswap docs"
-  tagline: My great project tagline
+  tagline: Trade, earn, win
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,12 +15,12 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Trade
+    details: Swap your favorite token and earn
+  - title: Earn
+    details: Provide liquidity, stake tokens and earn rewards
+  - title: Play
+    details: Play your favorite onchain game and earn rewards
 ---
 
 <script>

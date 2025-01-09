@@ -106,23 +106,22 @@ export default defineConfig({
 					],
 				},
 				{
-					text: "Additional Contracts",
+					text: "Earn/Reward Protocol",
 					items: [
-						{ text: "Farming", link: "/contracts/additional/farming" },
-						{ text: "Staking", link: "/contracts/additional/staking" },
-						{ text: "Games", link: "/contracts/additional/games" },
+						{ text: "Farming", link: "/contracts/earn/farming" },
+						{ text: "Staking", link: "/contracts/earn/staking" },
 					],
 				},
 				{
-					text: "Guides",
+					text: "Games",
+					items: [{ text: "Games", link: "/contracts/games/prediction" }],
+				},
+				{
+					text: "security",
 					items: [
 						{
-							text: "Integration Guide",
-							link: "/contracts/guides/integration",
-						},
-						{
 							text: "Security Considerations",
-							link: "/contracts/guides/security",
+							link: "/contracts/security/audits",
 						},
 					],
 				},
