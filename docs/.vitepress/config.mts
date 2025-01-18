@@ -40,16 +40,6 @@ export default defineConfig({
 			{ text: "Docs", link: "/docs/overview" },
 			{ text: "Contracts", link: "/contracts/" },
 		],
-
-		// sidebar: [
-		// 	{
-		// 		text: "Examples",
-		// 		items: [
-		// 			{ text: "Markdown Examples", link: "/markdown-examples" },
-		// 			{ text: "Runtime API Examples", link: "/api-examples" },
-		// 		],
-		// 	},
-		// ],
 		sidebar: {
 			"/docs/": [
 				{
