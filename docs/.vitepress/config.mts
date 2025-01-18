@@ -4,6 +4,8 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
 	title: "octaneswap",
 	description: "Octaneswap docs",
+
+	// https://analytics.google.com/analytics/web/
 	head: [
 		["link", { rel: "icon", href: "/favicon.ico" }],
 		[
@@ -28,9 +30,9 @@ export default defineConfig({
 		search: {
 			provider: "algolia",
 			options: {
-				appId: "...",
-				apiKey: "...",
-				indexName: "...",
+				appId: "VVL2WGP79Z",
+				apiKey: "25b49646673de8d7ade9e4b7ff1f3e09",
+				indexName: "octaneswap",
 			},
 		},
 		// https://vitepress.dev/reference/default-theme-config

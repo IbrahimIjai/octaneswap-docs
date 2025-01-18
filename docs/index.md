@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "octaneswap"
-  text: "Octaneswap docs"
+  name: "octaneswap docs"
+  # text: "Octaneswap docs"
   tagline: Trade, earn, win
   actions:
     - theme: brand
